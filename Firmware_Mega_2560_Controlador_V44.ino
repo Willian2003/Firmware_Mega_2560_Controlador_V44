@@ -231,6 +231,8 @@ void setup() {
   Serial1.begin(115200);//comunicação com o periférico leitura na placa protótipo
   Serial3.begin(115200);//comunicação com o periférico motor
 
+  //Serial.println("oi");
+
   lcd.init();
   lcd.backlight();
 
