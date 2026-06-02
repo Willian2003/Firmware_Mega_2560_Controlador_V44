@@ -39,6 +39,12 @@
    Hora: 13:27 implementação do versionamento via git e github.
 */
 
+/* Atualização
+   Dia: 02/06/2026
+   Autor: Willian
+   Hora: 13:58 implementação da leitura da tensão do fotodiodo.
+*/
+
 //#S1%M1G3L03000P4Z05000Q2& --modo automático padrão
 
 //sequência de comandos no modo automático:
