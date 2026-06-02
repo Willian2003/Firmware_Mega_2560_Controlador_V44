@@ -33,6 +33,11 @@
    Autor: Aziel
    Hora: 08:59 adaptação do código final para uso com o protótipo.
 */
+/* Atualização
+   Dia: 02/06/2026
+   Autor: Aziel
+   Hora: 13:27 implementação do versionamento via git e github.
+*/
 
 //#S1%M1G3L03000P4Z05000Q2& --modo automático padrão
 
